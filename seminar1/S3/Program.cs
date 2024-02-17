@@ -8,4 +8,3 @@ int num1 = num%10;
 int num2 = num/100;
 
 Console.Write($"Сумма {num1} и {num2} равна {num1 + num2}");
-
