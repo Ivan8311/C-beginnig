@@ -28,4 +28,3 @@ while(index <= num)
     Console.Write($"{index} ");
     index ++; //index = index + 1; или index +=1;
     //index --; => index = index - 1;  или index -=1;
-}
