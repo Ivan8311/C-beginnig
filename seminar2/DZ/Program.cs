@@ -72,31 +72,7 @@
 // показывает его цифры через запятую.
 
 
-// else
-// {
-//     string num2 = Console.ReadLine()!;
 
-// Console.Write("Введите натуральное число: "); //int i = 0;
-// if (int.Convert.ToInt32(Console.ReadLine()) > 0)
-
-// {
-//     string num = Console.ReadLine()!;
-//     int i = 0;
-// }
-//     {
-//           while (num.Length > i)
-//          {
-//             Console.Write($"{num[i]}, ");
-//             i++;
-//          }
-//     }
-// else
-// {
-//     Console.Write("Число не натуральное");
-// }
-
-// N > 0
-// N = N / 10
 Console.Write("Введите натуральное число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
